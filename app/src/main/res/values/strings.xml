@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Text Spinner</string>
+
+    <string-array name="item_array">
+
+        <item>Select Item</item>
+        <item>Item1</item>
+        <item>Item2</item>
+        <item>Item3</item>
+        <item>Item4</item>
+        <item>Item5</item>
+
+    </string-array>
+</resources>
